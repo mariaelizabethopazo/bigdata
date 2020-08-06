@@ -9,7 +9,7 @@ este es un repositorio
 
 aqui abajo va una imagen 
 
-![frutillas en canasto](https://lh3.googleusercontent.com/proxy/sUTvmIFHr7VWyCOU1w_2ESZR-NdrwV4bGUBK1fEsbqV_YS7lwmSGvf9eRN7skWexUASik_5n5SPDyTKgahRspZIQq034dEvOpiArE-YszqxgKW80QDknOeWxlcd3wSJcFNF-kQXfuxVeLjn4T59WNVtD3FwQwZ5HLeBO_6AJqdGIww)
+![frutillas en canasto] (https://i.pinimg.com/originals/a8/1c/18/a81c18dc1ca0a135379d30895cb2fdce.jpg)
 <ol>
 <li>Amaru</li>
 <li>Diana</li>
